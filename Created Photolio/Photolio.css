@@ -1,0 +1,59 @@
+.backgroundimage-div{
+    background-color: rgba(166, 213, 241, 0.569);
+}
+.photolio-h1{
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 80px;
+}
+.Template-p{
+    color: rgb(112, 110, 77);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+}
+.Toggle-button{
+    color: white;
+    background-color: rgb(201, 0, 247);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 590px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 80px;
+    font-size: 30px;
+    cursor: pointer;
+    display: block;
+    
+}
+.div1-div,
+.div2-div,
+.div3-div,
+.div4-div
+{
+    display: inline-block;
+    
+}
+.container-div{
+    display: block;
+}
+.video-video,
+.sky2-video,
+.thenmozhi-video,
+.birds-video{
+    width: 200px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin-left: 100px;
+}
+
+
+    
+
